@@ -1,7 +1,7 @@
 # Sales-Insights-SQL-And-PowerBI
 #### MySQL| Power BI | DAX | Power Query | Data Visualization
 ## Project Overview
-The goal is to analyze sales data and uncover trends, patterns, and key performance indicators that can help businesses make data-driven decisions. By leveraging **Power BI and MySQL**, this project transforms raw sales data into actionable insights.
+The **Sales Insights Dashboard** project leverages **Power BI and MySQL** to analyze sales performance, revenue trends, and profit margins across multiple locations, customers, and products. It provides **interactive visualizations and key business insights** to help decision-makers optimize sales strategies. Using **Power Query Editor for data transformation** and **DAX for advanced calculations**, this dashboard uncovers hidden patterns in sales data, enabling businesses to make data-driven decisions efficiently.
 ### Key Questions Answered
 - How has revenue changed over time?
 - Which products contribute the most to total sales?
